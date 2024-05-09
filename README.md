@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mark-myer
+- 👋 Hi, I’m @mark-myer!
 - 👀 I’m interested in web development and web apps.
 - 🌱 I’m currently learning React and Next.js.
 <!---
